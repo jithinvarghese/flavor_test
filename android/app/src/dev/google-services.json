@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "293113606079",
+    "firebase_url": "https://flavor-dev-2b480.firebaseio.com",
+    "project_id": "flavor-dev-2b480",
+    "storage_bucket": "flavor-dev-2b480.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293113606079:android:5b430ffb61c36d03997b0a",
+        "android_client_info": {
+          "package_name": "com.jithin.flavor_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293113606079-tuifud8dop2tvolo8p5asv2futief5rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHAf-G7PIfZod9TsNDTUu7z5GNPBYTVk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293113606079-tuifud8dop2tvolo8p5asv2futief5rq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "293113606079-j2ttfs69fsbgo4dmvsialnocelnuj477.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jithin.flavorTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
